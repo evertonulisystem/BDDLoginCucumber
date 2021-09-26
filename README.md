@@ -12,6 +12,10 @@ Imagem da Evidencia final do html:
 
 ![Teste](https://github.com/evertonulisystem/assets/blob/main/Evidencia.PNG)
 
+E essa imagem é do projeto "fotografado"
+
+![Teste](https://github.com/evertonulisystem/assets/blob/main/evidencia.PNG)
+
 O que foi ministrado?
 - Arquivo .feature
 - Classe relacionada
@@ -19,8 +23,6 @@ O que foi ministrado?
 - Uso da classe runner
 - Geração de html como relatório
 
-E essa imagem é do projeto "fotografado"
-![Teste](https://github.com/evertonulisystem/assets/blob/main/evidencia.PNG)
 
 :bowtie: Everton Ulisses de Mendonça
 
