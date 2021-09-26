@@ -8,6 +8,8 @@ O vídeo esta no youtube para um melhor entendimento. O objetivo final atingido 
 
 Visite o meu canal voltado a tecnologia da Informação: Gotas de Tecnologia
 
+Imagem da Evidencia final do html:
+
 ![Teste](https://github.com/evertonulisystem/assets/blob/main/Evidencia.PNG)
 
 O que foi ministrado?
@@ -16,6 +18,9 @@ O que foi ministrado?
 - Criação da pasta STEP (glue)
 - Uso da classe runner
 - Geração de html como relatório
+
+E essa imagem é do projeto "fotografado"
+![Teste](https://github.com/evertonulisystem/assets/blob/main/Foto.PNG)
 
 :bowtie: Everton Ulisses de Mendonça
 
