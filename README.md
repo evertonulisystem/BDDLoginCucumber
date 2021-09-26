@@ -1,7 +1,6 @@
 Selos
 NPM GitHub repo size YouTube Channel Subscribers GitHub language count
 
-Sobre o projeto
 Este projeto com cucumber no comando, representa um teste de login "com sucesso".
 O vídeo esta no youtube para um melhor entendimento. O objetivo final atingido foi a evidência tirando um print da resultado final do Login e claro a geração de relatórios.
 
